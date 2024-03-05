@@ -1,0 +1,3 @@
+[submodule ".config/tinted-theming/base16-alacritty"]
+	path = .config/tinted-theming/base16-alacritty
+	url = https://github.com/aarowill/base16-alacritty

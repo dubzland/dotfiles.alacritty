@@ -1,0 +1,10 @@
+import = ["~/.config/alacritty/theme.toml"]
+
+[font]
+size = 10.0
+
+[font.normal]
+family = "RobotoMono Nerd Font Mono"
+
+[window]
+opacity = 0.9
